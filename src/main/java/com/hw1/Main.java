@@ -2,7 +2,6 @@ package main.java.com.hw1;
 
 public class Main {
     public static void main(String[] args) {
-
         int side1 = 3;
         int side2 = 5;
         int side3 = 7;
