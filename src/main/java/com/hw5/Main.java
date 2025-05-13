@@ -20,9 +20,5 @@ public class Main {
         System.out.println("Загальний показник атаки воїнів династії Лі: " + pokaznikAtakiLee);
         System.out.println("Загальний показник атаки воїнів династії Минь: " + pokaznikAtakiMin);
 
-
-
-
-
     }
 }
