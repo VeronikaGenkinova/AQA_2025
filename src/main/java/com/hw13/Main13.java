@@ -5,10 +5,13 @@ public class Main13 {
         Android android = new Android("samsung");
         IPhone iphone = new IPhone("15 Pro");
 
+        System.out.println(android.model);
         android.opSystem();
         android.call();
         android.sms();
         android.internet();
+        System.out.println();
+        System.out.println(iphone.model);
         iphone.opSystem();
         iphone.call();
         iphone.sms();
